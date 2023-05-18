@@ -46,7 +46,7 @@ Change the depth. Change the colors anyway you'd like.
 <img src="https://i.imgur.com/LYnJRZS.png" height="80%" width="80%" alt="3dtext"/>
 <br />
 <br />
-That's it, very simple. You can change the colors under quick styles and you can always change the text to something else.
+That's it, very simple. You can change the colors under quick styles and you can always edit the text.
  <br/>
 <img src="https://i.imgur.com/A5aeoK7.jpg" height="80%" width="80%" alt="3dtext"/>
 <br />
