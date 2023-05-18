@@ -53,7 +53,7 @@ That's it, very simple. You can change the colors under quick styles and you can
 <br />
   Using the text wrapping tutorial I made previously I was able to make this. Microsoft Word makes formatting a document with images very easy. Don't forget to text wrap. If you're going to add a background set your background to "behind text" when applying text wrapping to it.
  <br/>
-<img src="https://i.imgur.com/Qo1OYpj.jpg" height="80%" width="80%" alt="3dtext/>
+<img src="https://i.imgur.com/Qo1OYpj.jpg" height="80%" width="80%" alt="3dtext"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
