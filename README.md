@@ -41,7 +41,7 @@ Click on 1) Word Style > 2) 3D rotation > 3) 3D rotation options.
 <img src="https://i.imgur.com/SSIuIFx.png" height="80%" width="80%" alt="3dtext"/>
 <br />
 <br />
-Change the depth. Change the colors anyway you'd like.
+ This box should open on the far right side of your screen. Change the depth size. Change the colors anyway you'd like.
  <br/>
 <img src="https://i.imgur.com/LYnJRZS.png" height="80%" width="80%" alt="3dtext"/>
 <br />
