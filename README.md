@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/vEN4pm7.png" height="80%" width="80%" alt="textreveal logo"/>
+ <img src="https://i.imgur.com/GT3qb31.png" height="80%" width="80%" alt="textreveal logo"/>
 </p>
 
 <h1>Create 3D text in Microsoft Word</h1>
